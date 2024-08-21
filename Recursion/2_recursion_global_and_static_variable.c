@@ -12,7 +12,7 @@ int function(int);
 
 //  MAIN FUNCTION
 
-int main()
+void main()
 {
     int n, m;
 
@@ -25,7 +25,6 @@ int main()
 
     printf("m = %d\n",m);
 
-    return 0;
 }
 
 //  FUNCTION DEFINITION
